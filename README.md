@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vladislav
 - 👀 I’m interested in Frontend and Backend
-- 🌱 I’m currently learning JS and PHP
-- 💞️ I’m looking to collaborate to internship
+- 🌱 I improve my level in programming
 - 📫 How to reach me - check my CV
 
 <!---
