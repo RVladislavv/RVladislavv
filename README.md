@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vladislav
-- 👀 I’m interested in Frontend and Backend
+- 👀 I’m interested in webdev
 - 🌱 I improve my level in programming
 - 📫 How to reach me - check my CV
 
